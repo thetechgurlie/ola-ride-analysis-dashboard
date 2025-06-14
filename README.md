@@ -10,8 +10,9 @@ This Power BI dashboard provides insights into Ola ride booking data across mult
 ## 📊 Dashboard Pages & Key Questions Answered
 
 ### 📌 Page 1: Overall Overview  
-**![Page 1](images/dashboard_page1_overview.png)**  
-**Questions Answered:**
+
+<img src="images/dashboard_page1_overview.png" width="500"/>
+ **Questions Answered:**
 1. What were the total number of bookings ?
 2. How many bookings were successfully confirmed?
 3. How did ride volume trend over the month? Were there any dips or peaks?
@@ -19,6 +20,7 @@ This Power BI dashboard provides insights into Ola ride booking data across mult
 5. What percentage of bookings were successful vs canceled?
 
 ### 🚗 Page 2: Vehicle Type Analysis  
+
 **![Page 2](images/dashboard_page2_vehicle_type.png)**  
 **Questions Answered:**
 1. Which vehicle type generated the highest total booking value?
@@ -27,6 +29,7 @@ This Power BI dashboard provides insights into Ola ride booking data across mult
 4. Which vehicle type has the lowest total distance travelled?
 
 ### 💰 Page 3: Revenue Insights  
+
 **![Page 3](images/dashboard_page3_revenue.png)**  
 **Questions Answered:**
 1. Which payment method is most preferred by riders?
@@ -37,6 +40,7 @@ This Power BI dashboard provides insights into Ola ride booking data across mult
 
 
 ### ❌ Page 4: Cancellation Breakdown  
+
 **![Page 4](images/dashboard_page4_cancellation.png)**  
 **Questions Answered:**
 1. What is the distribution of cancelled rides by customers?
@@ -46,6 +50,7 @@ This Power BI dashboard provides insights into Ola ride booking data across mult
 5. How many driver cancellations occurred due to personal and car-related issues?
 
 ### ⭐ Page 5: Ratings Analysis  
+
 **![Page 5](images/dashboard_page5_ratings.png)**  
 **Questions Answered:**
 1. Which vehicle type has the highest average driver rating?
