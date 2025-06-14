@@ -12,6 +12,7 @@ This Power BI dashboard provides insights into Ola ride booking data across mult
 ### 📌 Page 1: Overall Overview  
 
 **![Page 1](images/dashboard_page1_overview.png)**
+
  **Questions Answered:**
 1. What were the total number of bookings ?
 2. How many bookings were successfully confirmed?
@@ -22,6 +23,7 @@ This Power BI dashboard provides insights into Ola ride booking data across mult
 ### 🚗 Page 2: Vehicle Type Analysis  
 
 **![Page 2](images/dashboard_page2_vehicle_type.png)**  
+
 **Questions Answered:**
 1. Which vehicle type generated the highest total booking value?
 2. Which vehicle type has the highest success rate compared to total bookings?
@@ -31,6 +33,7 @@ This Power BI dashboard provides insights into Ola ride booking data across mult
 ### 💰 Page 3: Revenue Insights  
 
 **![Page 3](images/dashboard_page3_revenue.png)**  
+
 **Questions Answered:**
 1. Which payment method is most preferred by riders?
 2. Which customer made the highest number of bookings?
@@ -41,7 +44,8 @@ This Power BI dashboard provides insights into Ola ride booking data across mult
 
 ### ❌ Page 4: Cancellation Breakdown  
 
-**![Page 4](images/dashboard_page4_cancellation.png)**  
+**![Page 4](images/dashboard_page4_cancellation.png)** 
+
 **Questions Answered:**
 1. What is the distribution of cancelled rides by customers?
 2. What is the distribution of cancelled rides by drivers?
@@ -52,6 +56,7 @@ This Power BI dashboard provides insights into Ola ride booking data across mult
 ### ⭐ Page 5: Ratings Analysis  
 
 **![Page 5](images/dashboard_page5_ratings.png)**  
+
 **Questions Answered:**
 1. Which vehicle type has the highest average driver rating?
 2. What is the lowest average customer rating among all vehicle types?
@@ -59,5 +64,6 @@ This Power BI dashboard provides insights into Ola ride booking data across mult
 4. Which star rating is most frequently given by customers?
 
 ## 📌 Note  
-This project is for learning purposes only and uses sample data to mimic real world scenarios.
+*This project is for learning purposes only and uses sample data to mimic real world scenarios.*
+
 
