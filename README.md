@@ -11,7 +11,7 @@ This Power BI dashboard provides insights into Ola ride booking data across mult
 
 ### 📌 Page 1: Overall Overview  
 
-<img src="images/dashboard_page1_overview.png" width="500"/>
+**![Page 1](images/dashboard_page1_overview.png)**
  **Questions Answered:**
 1. What were the total number of bookings ?
 2. How many bookings were successfully confirmed?
